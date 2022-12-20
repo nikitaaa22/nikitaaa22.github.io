@@ -5,3 +5,6 @@
 
 
 http://project6526253.tilda.ws/nikitakryzhcool
+
+
+\[a^2 + b^2 = c^2\]
