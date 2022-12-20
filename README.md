@@ -1,12 +1,7 @@
 # nikitaaa22.github.io
 ![image](https://user-images.githubusercontent.com/114642857/207787352-5142c14c-b61a-4d13-aab9-07443d051edf.png)
 
-<iframe frameborder="no" scrolling="no" style="border:0; width:280px;height:150px;" 
-        src="http://time.yandex.ru/pages/widget/informer/index.html?geoid=213&theme=analog&lang=ru&layout=horiz"></iframe>
-<iframe frameborder="no" scrolling="no" 
-        style="border:0; 
-               width:280px;height:150px;" 
-        src="http://time.yandex.ru/pages/widget/informer/index.html?geoid=213&theme=digital&lang=ru&layout=horiz"></iframe>
+<iframe  frameborder="no" scrolling="no" width="280" height="150" src="https://yandex.ru/time/widget/?geoid=11353&lang=ru&layout=horiz&type=analog&face=serif"></iframe>
 
 
 http://project6526253.tilda.ws/nikitakryzhcool
