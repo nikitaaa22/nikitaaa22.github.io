@@ -7,5 +7,6 @@
 http://project6526253.tilda.ws/nikitakryzhcool
 
 
-\[a^2 + b^2 = c^2\]
-![image](https://user-images.githubusercontent.com/114642857/208613785-f8aa883d-b152-4460-a2a4-24333c97cf52.png)
+<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Daniil</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
