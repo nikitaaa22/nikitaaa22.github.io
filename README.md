@@ -23,3 +23,17 @@ $$ S=\sqrt{p(p-a)(p-b)(p-c)} $$
 ![lagrida_latex_editor (4)](https://user-images.githubusercontent.com/114472390/200511004-96e9114e-c1cc-4584-8c5a-1b60ef8027d6.png)
 
 
+### sql-запросы 
+
+SELECT COUNT(*) AS TABLE_COUNT -показывает количество таблиц
+
+SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE='BASE TABLE' - показывает названия всех таблиц
+
+SELECT * FROM users; показывает всех пользователей
+
+SELECT * FROM grades; показывает все оценки
+
+SELECT * FROM users,grades WHERE users.user_id=grades.user_id -запрос из двух таблиц (кто получил оценки)
+
+<div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/documents/embedded/4b0c4fc7-738f-430a-94fe-208f9f790777" id="DxmfelbdfdRg"></iframe></div>
+![mermaid-diagram-2022-12-20-130619](https://user-images.githubusercontent.com/115533634/208616247-17b1f36e-06ac-4efd-81aa-76ece576a41d.png)
